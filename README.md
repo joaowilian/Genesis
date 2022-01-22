@@ -1,4 +1,4 @@
-# Genesis
+# Genius
 Jogo Genius em Javascript, desafio Eduzz Fullstack Developer #2
 
 DESCRIÇÃO
